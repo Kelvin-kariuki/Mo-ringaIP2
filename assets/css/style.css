@@ -41,4 +41,42 @@
     color: rgb(205, 203, 203);
     font-weight: lighter;
     margin-left: 50px;
+}
 /* End of navigation bar styling */
+
+  .sect1{
+    display: flex;
+    margin: 30px -50;
+    padding: 15px 0 15px;
+  }
+  .sect1 > .sect2 {
+    margin: 100px 50px;
+    width: 500px;
+  }
+  .sect1 > .sect2 h2{
+      font-size: 40px;
+      font-weight: lighter;
+      margin-left: 50px;
+
+  }
+  .sect1 > .sect2 p{
+    font-family: Poppins,  Actor, Adamina;
+    font-size: 25px;
+    color: rgb(113, 110, 110);
+    font-weight: lighter;
+    margin-left: 50px;
+  }
+  .sect1 .sect2 button {
+    margin-top: 40px;
+    color: #FAFF00;
+    background-color: black;
+    border: none;
+    padding: 12px 20px;
+    border-top-right-radius: 12px;
+    margin-left: 50px;
+  }
+  #c {
+    width: 470px;
+    height: 450px
+   
+  }
