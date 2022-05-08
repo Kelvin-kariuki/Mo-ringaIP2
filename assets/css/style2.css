@@ -27,3 +27,10 @@
         padding-top: 50px;
         color: white;
 }
+.tabl> table{
+    /* background-color: white; */
+    color: white;
+    justify-content: space-evenly;
+    padding: 0 15px;
+    text-align: center;
+}
