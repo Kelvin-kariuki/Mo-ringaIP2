@@ -1,3 +1,29 @@
 *{
-    background-color: aqua;
+    /* background-color: aqua; */
+
+    font-family: Poppins,  Actor, Adamina;
+}
+.navBar{
+    background-color: rgb(14, 2, 2);
+    height: 45vh;
+    margin: -10
+}
+.navBar button{
+
+    font-family: Poppins,  Actor, Adamina;
+    margin-top: 0px;
+    color: #060601;
+    background-color: yellow;
+    border: none;
+    padding: 12px 20px;
+    border-top-right-radius: 12px;
+    margin-left: 50px;
+}
+.navBar> ul{
+    font-family: Poppins,  Actor, Adamina;
+        list-style-type: none;
+        display: flex;
+        justify-content: space-evenly;
+        padding-top: 50px;
+        color: white;
 }
