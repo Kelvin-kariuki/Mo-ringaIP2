@@ -9,3 +9,9 @@
     justify-content: space-evenly;
     padding-top: 20px;
 }
+.navBar > ul > li > button{
+    background-color: yellow;
+    width: 80px;
+    height: 25px;
+}
+
