@@ -20,6 +20,7 @@
     display: flex;
     justify-content: space-evenly;
     padding-top: 50px;
+    color: white;
 }
 .navBar > ul > li > button{
     background-color: yellow;
