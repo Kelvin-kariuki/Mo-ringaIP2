@@ -81,3 +81,22 @@
     height: 450px
   }
   /* End of the second section */
+
+
+  footer{
+    background-color: rgb(14, 2, 2);
+    color: white;
+    padding: 20px 70px 20px 70px;
+  }
+ .social{
+    list-style-type: none;
+    /* display: inline-block; */
+    display: flex;
+    justify-content: space-between;
+    
+}
+.fh{
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+}
