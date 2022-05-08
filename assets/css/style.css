@@ -9,12 +9,13 @@
     background-size: cover;
     background-position: center center;  
     height:60vh;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     position: relative;
     background-repeat: no-repeat;
     overflow-x: hidden;
      margin-top: -50px; 
      margin-left: -10px;
+     
 }
 .navBar> ul{
     list-style-type: none;
