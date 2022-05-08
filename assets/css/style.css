@@ -3,3 +3,9 @@
     margin: 0px;
     background-color: grey;
 }
+.navBar> ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 20px;
+}
